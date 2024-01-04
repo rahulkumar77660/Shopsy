@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Shopsy</string>
+<!--    <string name="default_web_client_id">AIzaSyAd5G365sN7AE3oU0oMs2a_bsUt7O4-V2w</string>-->
+<!--    <string name="default_web_client_id">84941016979-lhbql8rcct3r9asbtbavs5v7hgpmckt6.apps.googleusercontent.com</string>-->
+    <string name="default_web_client_id">AIzaSyCrPDtTOQ3HOGSEtnn9mSbZEVVVg7MuMMY</string>
+</resources>
